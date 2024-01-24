@@ -1,20 +1,24 @@
 {
   "faqs": [
     {
-      "question": "What is Lorem Ipsum?",
-      "answer": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+      "question": "What services does your development company offer?",
+      "answer": "Our development company provides a wide range of services, including web development, mobile app development, software solutions, and more. We specialize in creating customized solutions to meet our clients' unique needs."
     },
     {
-      "question": "Why do we use it?",
-      "answer": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+      "question": "How experienced is your team?",
+      "answer": "Our team consists of highly skilled and experienced professionals with years of expertise in the field of software development. We have successfully delivered projects for diverse industries, showcasing our commitment to quality and innovation."
     },
     {
-      "question": "Where does it come from?",
-      "answer": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+      "question": "What technologies do you work with?",
+      "answer": "We stay up-to-date with the latest technologies and frameworks. Our expertise includes but is not limited to JavaScript (React, Svelte, Node.js), Python, Java and Kotlin. We choose the right technology stack based on the requirements of each project."
     },
     {
-      "question": "Is it safe to use Lorem Ipsum?",
-      "answer": "Yes, Lorem Ipsum is safe to use. It has been used as the industry's standard dummy text ever since the 1500s."
+      "question": "Can you handle both small and large-scale projects?",
+      "answer": "Yes, we cater to projects of all sizes. Whether you have a small business website or need a complex enterprise-level solution, our team is equipped to handle projects of varying scales. We pride ourselves on delivering scalable and robust solutions."
+    },
+    {
+      "question": "What is the typical development process?",
+      "answer": "Our development process involves thorough planning, design, development, testing, and deployment phases. We collaborate closely with our clients to ensure their requirements are met at every stage. Transparency and communication are integral to our workflow."
     }
   ]
 }
